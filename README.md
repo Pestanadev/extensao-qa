@@ -1,32 +1,25 @@
-🧪 Testes-Manuais
+# Testes Manuais - Extensão em Qualidade de Software
 
-Repositório dedicado ao estudo, prática e documentação de testes manuais de software, com foco em:
+Repositório de estudo, prática e documentação de testes manuais de software, desenvolvido na disciplina de Extensão - Qualidade de Software (UniALFA, Sistemas para Internet).
 
-Aprendizado de QA
-Organização de casos de teste
-Melhoria contínua na análise e cobertura de testes
-🎯 Objetivo
-Este projeto foi criado com o objetivo de:
+## Objetivo
+- Praticar QA e organização de casos de teste
+- Simular testes em sistemas reais
+- Montar um portfólio técnico para oportunidades profissionais
 
-Consolidar conhecimentos de testes manuais
-Simular testes em sistemas reais e ambientes públicos
-Criar um portfólio técnico bem estruturado para futuras oportunidades profissionais
-🧱 Estrutura do repositório
-A estrutura está organizada por pastas, cada uma representando um sistema/teste diferente:
+## Estrutura
+- **SIFIT**: análise de requisitos, plano de testes, cenários, relatório de bugs e relatório dos testes
+  - `1-Analise-de-requisitos.md`
+  - `2-plano-de-testes.md`
+  - `Cenarios-de-testes/`
+  - `3-Relatorio-de-Bugs.md`
+  - `4-Relatorio-dos-testes.md`
 
-📁 OrangeHRM ↳ Casos de Teste, Cenários, Relatórios de Bug e Evidências
+## Metodologia
+Testes positivos, negativos e exploratórios, com evidências em vídeo e print.
 
+## Ferramentas
+Jam (gravação de evidências), MySQL Workbench, Markdown e GitHub.
 
-🧪 Metodologia
-Técnicas aplicadas: Testes Positivos, Negativos, Exploratório, Funcional
-Ferramentas: Markdown, GitHub.
-Formatos: BDD (Gherkin), Tabelas e Checklist
-Processos: Planejamento de Teste, Execução e Relatório
-
-📌 Status do Projeto
-✅ Ativo e em constante evolução 
-📋 Feedbacks são bem-vindos!
-
-🚀 Sites interessantes para prática
-OrangeHRM Demo (https://opensource-demo.orangehrmlive.com)
-
+## Autor
+Felipe Pestana
